@@ -688,13 +688,13 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
     footer-bottom Start
 --*/
 #footer-bottom {
-  background: #E9E9E9;
+  background: #424040;
   padding: 20px 0px;
 }
 #footer-bottom p {
   text-align: center;
   padding-top: 12px;
-  color: #454545;
+  color: #f3eded;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 2px;
